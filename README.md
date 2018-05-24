@@ -1,5 +1,5 @@
 # political-biogeography
-Code associated with Harrison et al. 2018, Nature Ecology &amp; Evolution
+Code associated with Harrison et al. 2018, <em>Nature Ecology &amp; Evolution</em>
 
 Custom R scripts written to perform the following analyses:
 
